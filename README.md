@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Balaji Praneeth Boga
 - 👀 I’m interested in Data Analytics, Data Science, Computer Vision and Deep Learning
-- 📫 Reach me on balajipraneethb@gmail.com or +14123300425
+- 📫 Reach me on balajipraneethboga@gmail.com or +14123300425
 
 <!---
 Balaji277/Balaji277 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
